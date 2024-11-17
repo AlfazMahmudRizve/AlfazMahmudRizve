@@ -61,7 +61,7 @@ I love to play guitar and sing. Music excites me every second.
 ## 📫 Connect with Me
 
 - **GitHub**: [Alfaz Mahmud Rizve](https://github.com/alfazmahmudrizve)
-- **LinkedIn**: [Alfaz Mahmud Rizvehttps://www.linkedin.com/in/alfazmahmudrizve)
+- **LinkedIn**: [Alfaz Mahmud Rizvehttps] (https://www.linkedin.com/in/alfazmahmudrizve)
 - **Email**: [a.m.rizve3905@gmail.com](mailto:a.m.rizve3905@gmail.com) 
 
 I’m always excited to collaborate on meaningful projects, especially those focused on innovation and real-world impact. Let's connect and create something amazing!
