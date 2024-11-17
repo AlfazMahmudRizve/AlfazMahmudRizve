@@ -11,7 +11,7 @@ I'm a Computer Science student driven by a passion for problem-solving and lever
 - **📚 Research on Large Language Models**  
    *Exploring ways to optimize computational resources through sub-model architectures, tackling practical implementation challenges, and proposing a state-of-the-art architecture for the future of LLMs.*
 
-- **🌍 Postivus: A digital marketing company** [>>](https://github.com/alfazmahmudrizve)  
+- **🌍 Postivus: A digital marketing company** [>>](https://alfazmahmudrizve.github.io/Postivus/))  
    *Developing a responsive website for a digital marketing company.*
 
 ---
