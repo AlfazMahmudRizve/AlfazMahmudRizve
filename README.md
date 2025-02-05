@@ -43,7 +43,7 @@ I'm a Computer Science student driven by a passion for problem-solving and lever
 
 ---
 ## 📂 Resume
-[Check My Resume!](https://drive.google.com/file/d/1uQibm1JqCjYRuN2z9JDNMBK_HJ60y9Ob/view?usp=sharing)
+[Check My Resume!](https://docs.google.com/document/d/1SzYh481ODkYq1cC6faELKymIAM1KAxSWI2tY2H8q4mo/edit?tab=t.0#heading=h.30j0zll)
 ---
 
 ## 👨‍💻 What I Love
