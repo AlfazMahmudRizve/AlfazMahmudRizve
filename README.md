@@ -21,44 +21,47 @@ I'm a Computer Science undergraduate passionate about **AI automation, web devel
 
 ---
 
-## 🛠️ Skills & Technologies
+🛠️ Skills & Technologies
+Programming & Web Development
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=whitehttps://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logohttps://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=whitehttps://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=whitehttps://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-csshttps://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor
 
-- **Programming & Web Development:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+Frameworks & CMS
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=whitehttps://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=blackhttps://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColorhttps://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColorhttps://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logohttps://img.shields.io/badge/-Elementor-EC4899?logo=elementor&logoColor
 
-- **Frameworks & CMS:**  
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
-  ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)  
-  ![Elementor](https://img.shields.io/badge/-Elementor-EC4899?logo=elementor&logoColor=white)
+Automation & Tools
+![n8n](https://img.shields.io/badge/-n8n-000000?
 
-- **Automation & Tools:**  
-  ![n8n](https://img.shields.io/badge/-n8n-000000)  
-  ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=whitehttps://img.shields.io/badge/-Git-F05032?
 
-- **SEO & Analytics:**  
-  Technical SEO audits, RankMath optimization, Core Web Vitals improvements, Google Analytics, Google Search Console, SEMrush, Ahrefs
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=whitehttps://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code
 
-- **Digital Marketing & Ads:**  
-  Meta Ads campaigns, audience segmentation, lead funnels, content strategy, performance tracking
+SEO & Analytics
+Technical SEO audits and RankMath optimization
 
-- **Databases & Cloud:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-  AWS (basic), DigitalOcean
+Core Web Vitals improvements
 
-- **AI & Machine Learning:**  
-  Machine learning fundamentals, data preprocessing, model training, LLMs, and Retrieval-Augmented Generation (RAG)
+Google Analytics, Google Search Console
+
+SEMrush and Ahrefs
+​
+
+Digital Marketing & Ads
+Meta Ads campaigns and audience segmentation
+
+Lead funnels and content strategy
+
+Performance tracking and optimization
+​
+
+Databases & Cloud
+MongoDB, DigitalOcean
+​
+
+AI & Machine Learning
+Machine learning fundamentals and data preprocessing
+
+Model training, LLMs, Retrieval-Augmented Generation (RAG)
+​
 
 ---
 
