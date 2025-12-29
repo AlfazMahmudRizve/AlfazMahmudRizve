@@ -72,7 +72,7 @@ I'm a Computer Science undergraduate passionate about **AI automation, web devel
 ---
 
 ## 📂 Resume
-[View My Resume](https://docs.google.com/document/d/1SzYh481ODkYq1cC6faELKymIAM1KAxSWI2tY2H8q4mo/edit?tab=t.0#heading=h.30j0zll)
+[View My Resume](https://drive.google.com/file/d/12FPvWTZKNO41NAHcHfPWUM3wNQC2MdjW/view?usp=sharing)
 
 ---
 
