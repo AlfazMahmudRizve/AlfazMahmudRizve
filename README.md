@@ -1,99 +1,73 @@
 # 👋 Hello, I'm Alfaz Mahmud Rizve
 
-Welcome to my GitHub! 🎉  
-I'm a Computer Science undergraduate passionate about **AI automation, web development, and digital marketing**. I focus on building **automation-driven workflows, scalable applications, and data-informed solutions** that create real-world impact. I combine programming, SEO, analytics, and performance marketing to help businesses and SaaS teams streamline operations and grow. 🚀
+### **Builder • Automator • Architect**
+
+Welcome to my digital workshop! ⚡  
+I am a **Full-Stack Automation Architect** specializing in **Headless Systems** and **AI-Driven Workflows**. I bridge the gap between complex engineering and business efficiency, building "self-driving" agencies and high-performance applications.
+
+Currently, I am moving beyond traditional web development to architect **Headless WordPress ecosystems** (Next.js + GraphQL) and **Central Nervous Systems** for businesses using n8n.
 
 ---
 
-## 🌟 Current Projects
+## 🚀 The Core Stack
 
-- **📚 Research on Large Language Models (LLMs)**  
-  *Exploring efficient architectures, computational optimization, and practical AI implementations for large-scale models.*
+I build with tools that offer speed, scalability, and autonomy.
 
-- **🌍 Postivus: Digital Marketing Platform** [>>](https://alfazmahmudrizve.github.io/Postivus/)  
-  *Building a responsive website for a digital marketing company, optimized for performance and conversions.*
-
-- **🤖 Automation & Workflow Projects**  
-  *Designing n8n and Zapier workflows for lead handling, CRM integration, and business process automation to reduce manual work.*
-
-- **💻 Personal Portfolio & Sandbox (whoisalfaz.me)**  
-  *Testing SEO optimizations, landing pages, funnels, and analytics setups for practical learning and client projects.*
+| **The Frontend (Face)** | **The Backend (Brain)** | **The Infrastructure** |
+| :--- | :--- | :--- |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![WordPress Headless](https://img.shields.io/badge/Headless_WP-21759B?style=flat&logo=wordpress&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌟 Featured Projects
 
-- **Programming & Web Development:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+- **🧠 Headless Agency Operating System (whoisalfaz.me v2)** *A high-performance portfolio and service platform built with Next.js 14, Tailwind CSS, and Headless WordPress via GraphQL. Features dynamic service routing, glassmorphism UI, and Vercel edge caching.*
 
-- **Frameworks & CMS:**  
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
-  ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)  
-  ![Elementor](https://img.shields.io/badge/-Elementor-EC4899?logo=elementor&logoColor=white)
+- **🤖 The "Central Nervous System" (n8n Automation)** *A suite of self-healing workflows that handle lead enrichment, automated client reporting (PDF generation), and 2-way CRM syncing. Replaces manual agency admin work with autonomous logic.*
 
-- **Automation & Tools:**  
-  ![n8n](https://img.shields.io/badge/-n8n-000000)  
-  ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- **📊 Algorithm & Simulation Labs** *Python-based implementations of core CS concepts, including Operating System simulators (Virtual Memory/Page Replacement) and Numerical Methods visualization tools.*
 
-- **SEO & Analytics:**  
-  Technical SEO audits, RankMath optimization, Core Web Vitals improvements, Google Analytics, Google Search Console, SEMrush, Ahrefs
-
-- **Digital Marketing & Ads:**  
-  Meta Ads campaigns, audience segmentation, lead funnels, content strategy, performance tracking
-
-- **Databases & Cloud:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-  AWS (basic), DigitalOcean
-
-- **AI & Machine Learning:**  
-  Machine learning fundamentals, data preprocessing, model training, LLMs, and Retrieval-Augmented Generation (RAG)
+- **📈 Postivus: Digital Growth Platform** *Legacy Project: A conversion-optimized digital marketing platform focusing on SEO architecture and performance analytics.*
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Technical Arsenal
 
-- Advanced AI workflows and LLM optimization  
-- Cybersecurity applications and AI-driven threat detection  
-- NLP (Natural Language Processing) for text analysis and automation  
-- Backend development with Python & Django  
-
----
-
-## 📂 Resume
-[View My Resume](https://drive.google.com/file/d/12FPvWTZKNO41NAHcHfPWUM3wNQC2MdjW/view?usp=sharing)
+- **Architecture:** Headless CMS (WP GraphQL), Event-Driven Architecture (Webhooks), Microservices.
+- **Automation:** n8n (Self-hosted & Cloud), Zapier, Custom Python Scripts.
+- **AI Engineering:** LLM Integration (OpenAI API), RAG Pipelines, Prompt Engineering for structured outputs (JSON).
+- **Optimization:** Core Web Vitals (100/100), Technical SEO, Server-Side Rendering (SSR).
 
 ---
 
-## 👨‍💻 What I Love
+## 🌱 Currently Exploring
 
-- **Problem Solving:** Tackling complex challenges and finding efficient, scalable solutions  
-- **Full-Stack Development:** Building robust applications with Python, Django, React, and WordPress  
-- **Automation:** Streamlining workflows to save time and improve business processes  
-
----
-
-## 🎮 Fun Fact
-
-I enjoy video games (sometimes rage-quit 😅), playing guitar, and singing. Music keeps me energized and creative!  
+- **Agentic AI:** Building autonomous AI agents that can plan and execute multi-step tasks.
+- **Next.js 15:** Experimenting with the latest React Server Components and Partial Prerendering.
+- **Rust:** Exploring systems programming for high-performance tooling.
 
 ---
 
-## 📫 Connect with Me
+## 📂 Resume & Docs
+[View My Technical Resume](https://drive.google.com/file/d/12FPvWTZKNO41NAHcHfPWUM3wNQC2MdjW/view?usp=sharing)
 
-- **GitHub:** [Alfaz Mahmud Rizve](https://github.com/alfazmahmudrizve)  
-- **LinkedIn:** [Alfaz Mahmud Rizve](https://www.linkedin.com/in/alfaz-mahmud-rizve/)  
+---
+
+## 👨‍💻 The Philosophy
+
+> "I don't just write code; I build systems that print time."
+
+I believe that modern engineering isn't about typing syntax—it's about designing architectures that solve expensive business problems on autopilot.
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/alfaz-mahmud-rizve](https://www.linkedin.com/in/alfaz-mahmud-rizve/)  
 - **Email:** [a.m.rizve3905@gmail.com](mailto:a.m.rizve3905@gmail.com)  
+- **Website:** [whoisalfaz.me](https://whoisalfaz.me)
 
-Let's collaborate on innovative projects and create solutions that matter! 🚀
+Let's build something intelligent. 🚀
