@@ -3,7 +3,7 @@
 ### **Builder • Automator • Architect**
 
 Welcome to my digital workshop! ⚡  
-I am a **RevOps Engineer** **Full-Stack Automation Architect** specializing in **Headless Systems** and **AI-Driven Workflows**. I bridge the gap between complex engineering and business efficiency, building "self-driving" agencies and high-performance applications.
+I am a **RevOps Engineer** & **Full-Stack Automation Architect** specializing in **Headless Systems** and **AI-Driven Workflows**. I bridge the gap between complex engineering and business efficiency, building "self-driving" agencies and high-performance applications.
 
 Currently, I am moving beyond traditional web development to architect **Headless WordPress ecosystems** (Next.js + GraphQL) and **Central Nervous Systems** for businesses using n8n.
 
