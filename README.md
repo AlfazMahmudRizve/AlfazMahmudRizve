@@ -30,7 +30,7 @@
 
 ## 💎 Flagship Web Platforms
 
-Client systems, interactive e-commerce, and high-velocity web applications featured on [whoisalfaz.me/portfolio](https://whoisalfaz.me):
+Client systems, interactive e-commerce, and high-velocity web applications featured on [my portfolio](https://whoisalfaz.me):
 
 <table>
   <tr>
