@@ -20,34 +20,7 @@
 
 ---
 
-## 🏛️ Autonomous Revenue Architecture
 
-The unified framework connecting discovery, intelligence, and automated execution:
-
-```mermaid
-flowchart LR
-    subgraph S1 ["1. Inbound & Surface Layer"]
-        A["Technical SEO & App Router"]
-        B["Headless Digital Showrooms"]
-        C["High-Converting DM Funnels"]
-    end
-
-    subgraph S2 ["2. Neural Core & Orchestration"]
-        D["n8n Autonomous Workflows"]
-        E["Qdrant Vector DB & RAG"]
-        F["FastAPI Middleware & Workers"]
-    end
-
-    subgraph S3 ["3. Automated Operations"]
-        G["Zero-Touch CRM Sync"]
-        H["Real-Time Kitchen/Store Audio"]
-        I["Autonomous Revenue Engines"]
-    end
-
-    S1 --> S2 --> S3
-```
-
----
 
 ## 💎 Flagship Systems & Live Deployments
 
