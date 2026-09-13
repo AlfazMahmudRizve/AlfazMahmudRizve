@@ -1,36 +1,42 @@
 <div align="center">
 
 # ⚡ Alfaz Mahmud Rizve
-
-<a href="https://whoisalfaz.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=14B8A6&center=true&vCenter=true&width=620&lines=GTM+%26+RevOps+Architect;Autonomous+Revenue+Engines;Self-Hosted+AI+%26+Vector+Infrastructure;High-Velocity+Next.js+Ecosystems" alt="Alfaz Mahmud Rizve - Role Matrix" />
-</a>
+### **GTM & RevOps Architect • Full-Stack Systems Engineer**
 
 <p align="center">
-  <strong>"Control. Connect. Conquer."</strong><br>
-  <em>Bridging technical SEO, high-speed Next.js web applications, and self-healing n8n RevOps pipelines for scaling brands.</em>
+  <em>"Control. Connect. Conquer."</em><br>
+  Engineering autonomous revenue engines, self-hosted AI infrastructure, and high-speed Next.js platforms at <a href="https://whoisalfaz.me"><strong>whoisalfaz.me</strong></a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Platform-whoisalfaz.me-000000?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://whoisalfaz.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfaz_Mahmud_Rizve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfaz-mahmud-rizve/)
-[![X / Twitter](https://img.shields.io/badge/X-@whois__alfaz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/whois_alfaz)
-[![Email](https://img.shields.io/badge/Email-a.m.rizve3905@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.m.rizve3905@gmail.com)
+<!-- PURE ICONS ROW -->
+<p align="center">
+  <a href="https://whoisalfaz.me" target="_blank" rel="noopener noreferrer" title="Portfolio Platform">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="32" height="32" alt="Platform" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alfaz-mahmud-rizve/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="32" height="32" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/whois_alfaz" target="_blank" rel="noopener noreferrer" title="X / Twitter">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="32" height="32" alt="X" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:a.m.rizve3905@gmail.com" target="_blank" rel="noopener noreferrer" title="Direct Email">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
+## 💎 Flagship Web Platforms
 
-
-## 💎 Flagship Systems & Live Deployments
-
-Production-grade web platforms, self-hosted AI stacks, and headless applications featured on [whoisalfaz.me](https://whoisalfaz.me):
+Client systems, interactive e-commerce, and high-velocity web applications featured on [whoisalfaz.me/portfolio](https://whoisalfaz.me):
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ Heaven Atelier</h3>
-      <p><em>Luxury interior & bespoke joinery digital showroom with real-time consultation drawer and timber grain lens.</em></p>
+      <p><em>Luxury interior & bespoke joinery digital showroom with real-time quotation drawer and timber grain lens.</em></p>
       <p>
         <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -42,16 +48,16 @@ Production-grade web platforms, self-hosted AI stacks, and headless applications
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ n8n Qdrant Bridge</h3>
-      <p><em>High-throughput FastAPI bridge connecting n8n automation workflows with Qdrant vector database for self-hosted RAG.</em></p>
+      <h3>✨ Veloryc Skincare</h3>
+      <p><em>Headless e-commerce platform with interactive diagnostic skin quiz, dynamic variant engine, and high-conversion sliding cart.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
       <p>
-        🔗 <a href="https://whoisalfaz.me/blog/pinecone-vs-qdrant-vultr-benchmark/"><strong>Latency Benchmark</strong></a> • 
-        📦 <a href="https://github.com/AlfazMahmudRizve/n8n-qdrant-fastapi-bridge">Code Repository</a>
+        🔗 <a href="https://veloryc.whoisalfaz.me"><strong>Live Storefront</strong></a> • 
+        📦 <a href="https://github.com/AlfazMahmudRizve/veloryc">Code Repository</a>
       </p>
     </td>
   </tr>
@@ -70,6 +76,43 @@ Production-grade web platforms, self-hosted AI stacks, and headless applications
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🕶️ Spectre 3D Commerce</h3>
+      <p><em>Cinema-quality 3D product disassembly with locked 60FPS fluid scroll and progressive buffer switching.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://spectre.whoisalfaz.me"><strong>Live 3D Experience</strong></a> • 
+        📦 <a href="https://github.com/AlfazMahmudRizve/Spectre">Code Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ RevOps, AI & Vector Infrastructure
+
+Self-hosted architectures, vector pipelines, and automation tools built for scale:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ n8n Qdrant Bridge</h3>
+      <p><em>High-throughput FastAPI bridge connecting n8n automation workflows with Qdrant vector database for self-hosted RAG.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://whoisalfaz.me/blog/pinecone-vs-qdrant-vultr-benchmark/"><strong>Latency Benchmark</strong></a> • 
+        📦 <a href="https://github.com/AlfazMahmudRizve/n8n-qdrant-fastapi-bridge">Code Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🛡️ Enterprise RAG Stack</h3>
       <p><em>Production self-hosted Enterprise RAG cluster with Qdrant, Dify AI Studio, Ollama, and Caddy Auto-HTTPS on Vultr.</em></p>
       <p>
@@ -85,21 +128,8 @@ Production-grade web platforms, self-hosted AI stacks, and headless applications
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ Veloryc Skincare</h3>
-      <p><em>Headless e-commerce platform with interactive diagnostic skin quiz, dynamic variant engine, and high-conversion sliding cart.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <p>
-        🔗 <a href="https://veloryc.whoisalfaz.me"><strong>Live Storefront</strong></a> • 
-        📦 <a href="https://github.com/AlfazMahmudRizve/veloryc">Code Repository</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🔍 Headless SEO Auditor</h3>
-      <p><em>Automated technical SEO crawler & auditor for Next.js App Router, SSR, and Headless CMS platforms (free Screaming Frog alternative).</em></p>
+      <p><em>Automated technical SEO crawler & auditor for Next.js App Router, SSR, and Headless CMS websites.</em></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/JSON--LD-005A9C?style=flat-square&logo=json&logoColor=white" />
@@ -108,21 +138,6 @@ Production-grade web platforms, self-hosted AI stacks, and headless applications
       <p>
         🔗 <a href="https://whoisalfaz.me/audit/"><strong>Launch Audit Engine</strong></a> • 
         📦 <a href="https://github.com/AlfazMahmudRizve/headless-nextjs-seo-auditor">Code Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕶️ Spectre 3D Commerce</h3>
-      <p><em>Cinema-quality 3D product disassembly with locked 60FPS fluid scroll and custom progressive buffering engine.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-      </p>
-      <p>
-        🔗 <a href="https://spectre.whoisalfaz.me"><strong>Live 3D Experience</strong></a> • 
-        📦 <a href="https://github.com/AlfazMahmudRizve/Spectre">Code Repository</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -143,31 +158,19 @@ Production-grade web platforms, self-hosted AI stacks, and headless applications
 
 ---
 
-## 🛠️ The Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-
-| Core Pillar | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend Architecture** | `Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `React Three Fiber` `Lenis Scroll` |
-| **Automation & RevOps** | `n8n Orchestration` `FastAPI` `Python 3.11+` `PostgreSQL` `Supabase` `Webhooks` |
-| **AI, RAG & Vectors** | `Qdrant Vector DB` `Dify AI Studio` `Ollama Local LLMs` `Google Gemini API` `LangChain` |
-| **Cloud Infrastructure** | `Docker` `Vultr Cloud` `Caddy Auto-HTTPS` `Vercel Edge` `Linux Debian` |
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,python,fastapi,postgres,supabase,docker,linux,git" alt="Technical Arsenal" />
 </div>
 
 ---
 
-## 🤝 Let's Build
-
-Ready to deploy autonomous RevOps pipelines, self-hosted AI agents, or high-performance headless architecture?
-
-```bash
-$ curl -s https://whoisalfaz.me/api/contact
-```
-
-- 🌐 **Platform & Case Studies:** [whoisalfaz.me](https://whoisalfaz.me)
-- 💼 **LinkedIn:** [Alfaz Mahmud Rizve](https://www.linkedin.com/in/alfaz-mahmud-rizve/)
-- 🐦 **X (Twitter):** [@whois_alfaz](https://x.com/whois_alfaz)
-- 📧 **Direct Email:** [a.m.rizve3905@gmail.com](mailto:a.m.rizve3905@gmail.com)
-- 📍 **Base:** Chattogram, Bangladesh *(Available Worldwide)*
+<div align="center">
+  <p>
+    <a href="https://whoisalfaz.me">whoisalfaz.me</a> • 
+    <a href="https://www.linkedin.com/in/alfaz-mahmud-rizve/">LinkedIn</a> • 
+    <a href="https://x.com/whois_alfaz">X</a> • 
+    <a href="mailto:a.m.rizve3905@gmail.com">a.m.rizve3905@gmail.com</a>
+  </p>
+</div>
